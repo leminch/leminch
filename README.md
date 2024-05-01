@@ -1,4 +1,9 @@
-### Hi there 👋
+# About me 👋
+
+- 🔭 I'm a second year PhD student at the University of Exeter, with links to the Royal Botanic Gardens, Kew and Singapore Botanic Gardens.
+- 🌳 I study the evolution and breeding systems of tropical rainforest trees in Southeast Asia. 
+- 🧬 I use DNA sequences to understand what has happened both in the deep evolutionary past of these trees, and also recent hybridisation events in present-day tree communities.
+- 💻 I code mainly in bash but I'm trying to learn R and python over the course of my PhD!
 
 <!--
 **leminch/leminch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
